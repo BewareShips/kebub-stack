@@ -3,7 +3,7 @@
 export const App = () => {
   return (
     <>
-    <h1>KebubStar</h1>
+    <h1 className="text-red-500">KebubStar</h1>
     </>
   );
 }
